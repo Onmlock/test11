@@ -1,0 +1,7 @@
+a
+b
+x : a b q
+y : x
+z : p
+q : b p
+p : y

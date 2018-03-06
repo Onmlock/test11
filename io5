@@ -1,0 +1,5 @@
+touch a0
+touch b0
+make root
+timestamps
+quit

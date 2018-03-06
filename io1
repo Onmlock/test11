@@ -1,0 +1,6 @@
+touch a
+make y
+timestamps
+make x
+timestamps
+quit

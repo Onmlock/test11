@@ -1,0 +1,9 @@
+touch c
+make r
+timestamps
+make r
+timestamps
+touch a
+make r
+timestamps
+quit

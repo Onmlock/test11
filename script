@@ -1,0 +1,7 @@
+#!/bin/zsh
+./fakemake inp0 < io0
+./fakemake inp1 < io1
+./fakemake inp2 < io2
+./fakemake inp3 < io3
+./fakemake inp4 < io4
+./fakemake inp5 < io5
